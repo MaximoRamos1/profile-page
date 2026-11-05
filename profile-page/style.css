@@ -5,7 +5,7 @@ all selector in css {
 }
 
 the body selector in css {
-  background-color: #333;
+  background-color: #f80101;
   color: #fff;
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
@@ -22,7 +22,7 @@ the ul inside the nav element {
 
 the link inside the ul {
   text-decoration: none;
-  color: #c46262;
+  color: #35358a;
   font-weight: bold;
 }
 
